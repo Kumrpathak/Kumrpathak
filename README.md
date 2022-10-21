@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Kumrpathak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hritik kumar pathak
+- 👀 I’m interested in Application development
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Mobile development
+- 📫 How to reach me https://www.linkedin.com/in/hritik-kumar-7bb402251/
 
 <!---
-Kumrpathak/Kumrpathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hritik kumar pathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
